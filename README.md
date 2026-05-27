@@ -15,9 +15,6 @@ framework is evaluated on a 139-country × 35-year Varieties of Democracy
 - **Paper (ACM DOI):** <https://doi.org/10.1145/3770855.3818956>
 - **Preprint (arXiv):** arXiv:2603.20980
 
-- **Paper (ACM DOI):** <https://doi.org/10.1145/3770855.3818956>
-- **Preprint (arXiv):** arXiv:2603.20980
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vkuskova/SIGKDD2026-463/blob/main/notebooks/KDD_463.ipynb)
 
 The paper and its supplementary materials are included in this repository under
