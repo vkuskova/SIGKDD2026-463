@@ -1,0 +1,9 @@
+# Core dependencies for the DCNAR pipeline (KDD '26, paper 463)
+# Versions are lower bounds; the pipeline was developed and run on
+# Google Colab with current PyPI builds (Python 3.10+).
+numpy>=1.18.0
+pandas>=0.24.1
+scikit-learn>=0.23.1
+torch>=1.3.0
+matplotlib>=3.3.0
+scipy>=1.5.0

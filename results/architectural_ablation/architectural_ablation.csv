@@ -1,0 +1,5 @@
+Condition,Edges,Lambda,CRPS,Sign consistent,Monotonic,Avg sign changes
+DCNAR (full pipeline),166,timevarying,0.013107361545379989,3/3,3/3,0.0
+VAR-derived W (no neural disc.),166,timevarying,0.015019963421655541,3/3,3/3,0.0
+Static lambda (no time-vary.),166,static,0.01306319129559578,3/3,3/3,0.0
+Dense W (no sparsity),240,timevarying,0.013229134237086734,3/3,3/3,0.0

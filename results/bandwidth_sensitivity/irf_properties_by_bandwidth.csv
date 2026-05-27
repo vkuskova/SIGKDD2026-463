@@ -1,0 +1,19 @@
+Country,Bandwidth,Sign consistent,Monotonic,Sign changes,Peak horizon,Current
+Albania,0.05,True,True,0,1,
+Albania,0.1,True,True,0,1,
+Albania,0.15,True,True,0,1,
+Albania,0.2,True,True,0,1,←
+Albania,0.3,True,True,0,1,
+Albania,0.4,True,True,0,1,
+United States of America,0.05,True,True,0,1,
+United States of America,0.1,True,True,0,1,
+United States of America,0.15,True,True,0,1,
+United States of America,0.2,True,True,0,1,←
+United States of America,0.3,True,True,0,1,
+United States of America,0.4,True,True,0,1,
+Mexico,0.05,True,True,0,1,
+Mexico,0.1,True,True,0,1,
+Mexico,0.15,True,True,0,1,
+Mexico,0.2,True,True,0,1,←
+Mexico,0.3,True,True,0,1,
+Mexico,0.4,True,True,0,1,
